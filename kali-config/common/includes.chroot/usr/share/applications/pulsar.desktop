@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pulsar
+Exec=/opt/Pulsar/pulsar %U
+Terminal=false
+Type=Application
+Icon=pulsar
+StartupWMClass=Pulsar
+Comment=A Community-led Hyper-Hackable Text Editor
+Categories=Development;

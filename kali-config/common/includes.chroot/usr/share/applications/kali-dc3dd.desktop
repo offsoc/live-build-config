@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=dc3dd
+Comment=Convert and copy a file
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "dc3dd --help"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-03-digital-forensics;11-07-forensic-imaging-tools;004-respond;
+X-Kali-Package=dc3dd

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=guymager (root)
+Comment=A forensic acquisition program
+Encoding=UTF-8
+Exec=pkexec guymager
+Icon=kali-guymager
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=11-07-forensic-imaging-tools;004-respond;
+X-Kali-Package=guymager

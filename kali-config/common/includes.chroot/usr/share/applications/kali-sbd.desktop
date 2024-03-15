@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sbd
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sbd -h"
+Icon=kali-sbd
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-01-os-backdoors;
+X-Kali-Package=sbd

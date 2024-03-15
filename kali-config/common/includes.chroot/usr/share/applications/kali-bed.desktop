@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bed
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "bed"
+Icon=kali-bed
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-02-fuzzers;
+X-Kali-Package=bed

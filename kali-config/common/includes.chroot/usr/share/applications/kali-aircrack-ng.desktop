@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=aircrack-ng
+Comment=A 802.11 WEP / WPA-PSK key cracker
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "aircrack-ng --help"
+Icon=kali-aircrack-ng
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-Kali-Package=aircrack-ng

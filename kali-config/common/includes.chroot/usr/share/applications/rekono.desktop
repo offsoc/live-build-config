@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=rekono
+Comment=Automation platform that combines different hacking tools to complete pentesting processes
+Exec=kaboxer run --component default rekono
+Icon=kaboxer-rekono
+Terminal=false
+Type=Application
+Categories=01-info-gathering;02-vulnerability-analysis;03-webapp-analysis;

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=driftnet
+Comment=Capture images from network traffic and display them in an X window; optionally, capture audio streams and play them.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "driftnet -h"
+Icon=kali-driftnet
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=driftnet

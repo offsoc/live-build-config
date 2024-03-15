@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Termius
+Exec=/opt/Termius/termius-app %U
+Terminal=false
+Type=Application
+Icon=termius-app
+StartupWMClass=Termius
+Comment=Desktop SSH Client
+MimeType=x-scheme-handler/termius;
+Categories=Utility;

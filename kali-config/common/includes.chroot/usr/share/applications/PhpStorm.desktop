@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=PhpStorm
+Comment=PhpStorm
+Type=Application
+Exec=sh -c "/opt/PhpStorm/bin/phpstorm.sh"
+Icon=/opt/PhpStorm/bin/phpstrom.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+Categories=14-development-tools;
+

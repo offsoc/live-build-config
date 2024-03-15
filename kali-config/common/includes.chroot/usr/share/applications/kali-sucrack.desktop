@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=sucrack
+Comment=Is a multithreaded Linux/UNIX tool for brute-force cracking of local user accounts via su.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sucrack -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=sucrack

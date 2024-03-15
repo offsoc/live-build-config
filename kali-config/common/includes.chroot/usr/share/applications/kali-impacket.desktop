@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=impacket
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "(cd /usr/bin/ && ls --color=auto impacket-*)"
+Icon=kali-impacket
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-maintaining-access;05-04-pass-hash;004-respond;
+X-Kali-Package=impacket-scripts

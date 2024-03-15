@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pev
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "readpe --help ; peres --help ; pedis --help ; pestr --help"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-05-forensic-carving-tools;
+X-Kali-Package=pev

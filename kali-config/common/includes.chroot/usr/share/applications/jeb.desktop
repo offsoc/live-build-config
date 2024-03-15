@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/opt/jeb/jeb_linux.sh
+Icon=/opt/jeb/jeb.png
+Name=jeb
+Terminal=false
+Type=Application
+                     

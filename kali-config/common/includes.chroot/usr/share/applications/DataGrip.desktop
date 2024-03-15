@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=datagrip
+Comment=datagrip
+Type=Application
+Exec=sh -c "/opt/DataGrip/bin/datagrip.sh"
+Icon=/opt/DataGrip/bin/datagrip.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+Categories=14-development-tools;

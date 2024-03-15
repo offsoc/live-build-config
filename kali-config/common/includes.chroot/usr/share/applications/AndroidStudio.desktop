@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=AndroidStudio
+Comment=AndroidStudio
+Type=Application
+Exec=sh -c "/opt/android-studio/bin/studio.sh"
+Icon=/opt/android-studio/bin/studio.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8

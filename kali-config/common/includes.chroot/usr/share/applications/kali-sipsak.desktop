@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=sipsak
+Comment=A utility for various tests on sip servers and user agents
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sipsak -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-03-voip-tools;
+X-Kali-Package=sipsak

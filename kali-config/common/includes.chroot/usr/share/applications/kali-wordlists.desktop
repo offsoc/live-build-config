@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=wordlists
+Encoding=UTF-8
+Exec=wordlists
+Icon=kali-wordlists
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-05-profile;05-password-attacks;
+X-Kali-Package=wordlists

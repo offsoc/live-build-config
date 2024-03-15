@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/usr/lib/FinalShell/bin/FinalShell
+Icon=/usr/share/icons/hicolor/scalable/apps/finalshell.png
+Name=FinalShell
+Terminal=false
+Type=Application

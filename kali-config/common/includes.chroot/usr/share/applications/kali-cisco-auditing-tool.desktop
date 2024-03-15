@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=cisco-auditing-tool
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "CAT"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-cisco-attacks;02-01-cisco-tools;05-01-online-attacks;001-identify;
+X-Kali-Package=cisco-auditing-tool

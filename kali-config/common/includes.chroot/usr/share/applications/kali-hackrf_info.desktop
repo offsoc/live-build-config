@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hackrf_info
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "hackrf_info -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-04-other-wireless;
+X-Kali-Package=hackrf

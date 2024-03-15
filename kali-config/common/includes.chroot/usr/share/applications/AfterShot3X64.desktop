@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=3.0
+Name=Corel AfterShot 3(64-bit)
+Comment=Photographic Workflow at the Speed of Light
+Exec=/usr/bin/AfterShot3X64 %F
+Terminal=false
+Icon=/usr/share/pixmaps/AfterShot3X64.png
+Type=Application
+Categories=Graphics;Photography;
+MimeType=image/jpeg;image/tiff;image/x-adobe-dng;image/x-pentax-pef;image/x-canon-cr2;image/x-canon-crw;image/x-sony-arw;image/x-sony-sr2;image/x-kodak-dcr;image/x-minolta-mrw;image/x-nikon-nef;image/x-nrw;image/x-olympus-orf;image/x-fuji-raf;image/x-panasonic-raw;image/x-raw;image/x-panasonic-rw2;image/x-rwl;image/x-samsung-srw;application/x-AfterShotPro;

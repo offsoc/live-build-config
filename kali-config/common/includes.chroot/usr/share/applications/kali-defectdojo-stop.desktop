@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=defectdojo stop
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo defectdojo-stop"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-16-defectdojo-service;001-identify;
+X-Kali-Package=defectdojo

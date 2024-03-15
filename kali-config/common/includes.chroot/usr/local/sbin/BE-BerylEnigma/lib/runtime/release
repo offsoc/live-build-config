@@ -1,0 +1,2 @@
+JAVA_VERSION="17.0.5"
+MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.scripting ApacheCommons java.logging java.transaction.xa java.sql jdk.unsupported com.google.gson com.google.zxing javafx.base javafx.graphics javafx.controls com.jfoenix java.security.sasl java.naming javafx.fxml beryenigma"

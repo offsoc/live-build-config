@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=laudanum
+Encoding=UTF-8
+Exec=laudanum
+Icon=kali-laudanum
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-03-web-backdoors;
+X-Kali-Package=laudanum

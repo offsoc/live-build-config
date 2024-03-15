@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=backdoor-factory
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "backdoor-factory -h"
+Icon=kali-backdoor-factory
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-maintaining-access;13-social-engineering-tools;
+X-Kali-Package=backdoor-factory

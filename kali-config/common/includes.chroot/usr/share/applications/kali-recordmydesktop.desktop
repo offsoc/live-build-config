@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=recordmydesktop
+Comment=Record desktop sessions to an Ogg-Theora-Vorbis file.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "recordmydesktop -h"
+Icon=kali-recordmydesktop
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-reporting;
+X-Kali-Package=recordmydesktop

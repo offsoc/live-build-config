@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=faraday start
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo faraday"
+Icon=kali-python-faraday
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=12-reporting;14-14-faraday-service;
+X-Kali-Package=faraday

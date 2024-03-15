@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=chntpw
+Comment=Utility to overwrite passwords of Windows systems
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "chntpw -h"
+Icon=kali-chntpw
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=chntpw

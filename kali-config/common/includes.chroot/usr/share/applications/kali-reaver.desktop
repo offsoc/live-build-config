@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=reaver
+Comment=WPS Cracker
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "reaver -h"
+Icon=kali-reaver
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-Kali-Package=reaver

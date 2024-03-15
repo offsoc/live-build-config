@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=wolai
+Exec=/opt/wolai/wolai %U
+Terminal=false
+Type=Application
+Icon=wolai
+StartupWMClass=wolai
+Categories=Office;TextEditor;Utility;
+Homepage=https://www.wolai.com/product
+Comment=wolai，为有志成功的个人和团队应运而生的云端协作平台。多人编辑、数据表格、块级引用、双向链接......知识整理与协同办公的不二之选。

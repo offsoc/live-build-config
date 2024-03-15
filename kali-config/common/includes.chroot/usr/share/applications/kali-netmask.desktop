@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=netmask
+Comment=A netmask generation and conversion program
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "netmask -h"
+Icon=kali-netmask
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-08-route-analysis;
+X-Kali-Package=netmask

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dex2jar
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "d2j-dex2jar -h"
+Icon=kali-dex2jar
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-01-android-tools;07-reverseengineer;
+X-Kali-Package=dex2jar

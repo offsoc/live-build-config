@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=yara
+Comment=Find files matching patterns and rules written in a special-purpose language.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "yara"
+Icon=kali-yara
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;004-respond;
+X-Kali-Package=yara

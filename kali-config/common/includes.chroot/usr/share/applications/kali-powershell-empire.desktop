@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=powershell empire
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo powershell-empire -h"
+Icon=kali-powershell-empire
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-maintaining-access;
+X-Kali-Package=powershell-empire

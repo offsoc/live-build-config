@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=pasco
+Comment=Tool to extract information from MS IE cache files
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "pasco"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-05-forensic-carving-tools;
+X-Kali-Package=pasco

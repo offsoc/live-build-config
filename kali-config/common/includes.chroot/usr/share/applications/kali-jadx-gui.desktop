@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=jadx-gui
+Encoding=UTF-8
+Exec=jadx-gui
+Icon=kali-jadx
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=07-reverseengineer;
+X-Kali-Package=jadx
+StartupWMClass=jadx-gui-JadxGUI

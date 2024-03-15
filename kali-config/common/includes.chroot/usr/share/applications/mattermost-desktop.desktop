@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Mattermost
+Exec=/opt/Mattermost/mattermost-desktop %U
+Terminal=false
+Type=Application
+Icon=mattermost-desktop
+StartupWMClass=Mattermost
+Comment=Mattermost
+MimeType=x-scheme-handler/mattermost;
+Categories=contrib/net;

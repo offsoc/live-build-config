@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=cowpatty
+Comment=Brute-force dictionary attack against WPA-PSK
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "cowpatty"
+Icon=kali-cowpatty
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-wireless-tools;06-wireless-attacks;
+X-Kali-Package=cowpatty

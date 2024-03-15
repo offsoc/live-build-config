@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CuteCom
+GenericName=Serial Terminal
+Comment=A graphical serial terminal
+Exec=cutecom
+Icon=cutecom
+Type=Application
+Categories=Qt;System;TerminalEmulator;

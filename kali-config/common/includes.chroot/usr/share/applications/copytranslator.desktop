@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=copytranslator
+Exec=/opt/copytranslator/copytranslator %U
+Terminal=false
+Type=Application
+Icon=/opt/copytranslator/resources/linux-icon/icon.png
+StartupWMClass=copytranslator
+Comment=Foreign language assisted reading and translation solution
+Categories=Education;

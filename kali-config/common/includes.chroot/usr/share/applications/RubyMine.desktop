@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=RubyMine
+Comment=RubyMine
+Type=Application
+Exec=sh -c "/opt/RubyMine/bin/rubymine.sh"
+Icon=/opt/RubyMine/bin/rubymine.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+Categories=14-development-tools;
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rainbowcrack
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "rcrack"
+Icon=kali-rainbowcrack
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;05-password-attacks;
+X-Kali-Package=rainbowcrack

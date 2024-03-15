@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=missidentify
+Comment=Find executable files without an executable extension
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "missidentify -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-04-forensic-analysis-tools;
+X-Kali-Package=missidentify

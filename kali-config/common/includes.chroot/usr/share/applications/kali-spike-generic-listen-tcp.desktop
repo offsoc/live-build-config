@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=spike-generic_listen_tcp
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "generic_listen_tcp"
+Icon=kali-spike
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-02-fuzzers;
+X-Kali-Package=spike

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ieaseMusic
+Comment=网易云音乐第三方 ✨
+Exec="/opt/ieaseMusic/ieaseMusic" %U
+Terminal=false
+Type=Application
+Icon=ieaseMusic
+StartupWMClass=ieaseMusic
+Categories=Music;

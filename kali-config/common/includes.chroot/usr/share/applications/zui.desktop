@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Zui
+Exec=/opt/Zui/zui %U
+Terminal=false
+Type=Application
+Icon=zui
+StartupWMClass=Zui
+Comment=Zed User Interface
+MimeType=x-scheme-handler/zui;
+Categories=Utility;

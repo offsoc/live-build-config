@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=p0f
+Comment=Identify remote systems passively
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "p0f -h"
+Icon=kali-p0f
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Kali-Package=p0f

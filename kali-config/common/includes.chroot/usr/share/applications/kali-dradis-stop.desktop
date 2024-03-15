@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dradis stop
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo dradis-stop"
+Icon=kali-dradis
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-10-dradis-service;
+X-Kali-Package=dradis

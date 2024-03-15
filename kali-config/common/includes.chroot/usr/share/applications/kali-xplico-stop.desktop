@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=xplico stop
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo systemctl stop xplico && systemctl --no-pager status xplico"
+Icon=kali-xplico
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-12-xplico-service;
+X-Kali-Package=xplico

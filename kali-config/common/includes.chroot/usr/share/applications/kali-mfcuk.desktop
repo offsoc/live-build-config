@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mfcuk
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "mfcuk -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-03-rfid-nfc-tools;
+X-Kali-Package=mfcuk

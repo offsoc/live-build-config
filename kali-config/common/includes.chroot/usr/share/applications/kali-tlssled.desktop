@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=tlssled
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "tlssled"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-13-ssl-analysis;
+X-Kali-Package=tlssled

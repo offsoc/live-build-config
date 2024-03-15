@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=dirsearch
+Comment=Web path scanner
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "dirsearch -h"
+Icon=kali-dirsearch
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-04-web-crawlers;
+X-Kali-Package=dirsearch

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=com.alibaba.linux.rimet
+Comment=钉钉桌面版，基于中标麒麟的兆芯版RPM安装包修改。
+Exec=/opt/dingtalk/nw
+Icon=/opt/dingtalk/res/com.alibaba.linux.rimet.png
+Terminal=false
+Type=Application
+Categories=Network;
+Name[en_GB]=dingtalk
+Name[zh_CN]=钉钉

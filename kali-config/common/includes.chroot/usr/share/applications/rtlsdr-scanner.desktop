@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=rtlsdr-scanner
+Encoding=UTF-8
+Exec=rtlsdr-scanner
+Icon=kali-menu
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=06-05-radio-tools;
+X-Kali-Package=rtlsdr-scanner

@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Cleash For Linux
+Comment=Clash For Linux
+Type=Application
+Exec=sh -c "/opt/clash/cfw"
+Icon=/opt/clash/clash.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8

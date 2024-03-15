@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=jboss-autopwn-linux
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "jboss-linux"
+Icon=kali-jboss-autopwn
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-01-cms-identification;03-05-web-vulnerability-scanners;
+X-Kali-Package=jboss-autopwn

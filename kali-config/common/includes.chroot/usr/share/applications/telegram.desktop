@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/opt/Telegram/Telegram
+Icon=/opt/Telegram/Telegram.png
+Name=Telegram
+Terminal=false
+Type=Application
+

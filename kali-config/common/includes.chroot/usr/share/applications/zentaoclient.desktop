@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=禅道
+Exec=/opt/zentaoclient/zentaoclient %U
+Terminal=false
+Type=Application
+Icon=zentaoclient
+StartupWMClass=zentaoclient
+Comment=专注于协同的聊天软件
+Categories=Utility;

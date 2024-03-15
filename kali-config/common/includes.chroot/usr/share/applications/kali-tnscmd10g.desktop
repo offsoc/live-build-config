@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=tnscmd10g
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "tnscmd10g"
+Icon=kali-tnscmd10g
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-Kali-Package=tnscmd10g

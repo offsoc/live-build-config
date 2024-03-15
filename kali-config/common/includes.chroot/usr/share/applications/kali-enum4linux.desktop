@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=enum4linux
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "enum4linux"
+Icon=kali-enum4linux
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-10-smb-analysis;
+X-Kali-Package=enum4linux

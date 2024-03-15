@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Office;
+Comment=EdrawProj
+Encoding=UTF-8
+Exec=/opt/EdrawProj-3/edrawproj.sh %F
+Icon=edrawproj
+MimeType=application/x-edpx
+Name=EdrawProj
+StartupNotify=false
+Terminal=false
+Type=Application
+X-Deepin-Vendor=EdrawSoft
+Name[zh_CN]=EdrawProj

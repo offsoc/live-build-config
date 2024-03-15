@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hashrat
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "hashrat --help"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=004-respond;
+X-Kali-Package=hashrat

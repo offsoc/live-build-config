@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Synology Hybrid Share Download Tool
+Exec="/opt/Synology Hybrid Share Download Tool/hybrid-share-download-tool" %U
+Terminal=false
+Type=Application
+Icon=hybrid-share-download-tool
+StartupWMClass=Synology Hybrid Share Download Tool
+Comment=A desktop tool allowing you to download files directly from your Hybrid Share folder, even without immediate access to a Synology NAS.
+Categories=Utility;

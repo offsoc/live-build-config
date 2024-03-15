@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=cadaver
+Comment=A command-line WebDAV client for Unix.
+Encoding=UTF-8
+Exec=cadaver
+Icon=kali-cadaver
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners;
+X-Kali-Package=cadaver

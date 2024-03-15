@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=httrack
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "httrack -h"
+Icon=kali-sqlmap
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-webapp-analysis;
+X-Kali-Package=httrack

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ike-scan
+Comment=Discover and fingerprint IKE hosts (IPsec VPN servers)
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "ike-scan -h"
+Icon=kali-ike-scan
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;
+X-Kali-Package=ike-scan

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=EasyConnect
+GenericName=vpn client
+Comment=Sangfor ssl vpn client
+Exec=/usr/share/sangfor/EasyConnect/EasyConnect --enable-transparent-visuals --disable-gpu
+Icon=EasyConnect
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Network;WebBrowser;
+X-Desktop-File-Install-Version=0.22

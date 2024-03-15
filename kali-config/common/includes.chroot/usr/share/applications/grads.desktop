@@ -1,0 +1,14 @@
+[Desktop Entry]
+X-SuSE-translate=true
+Name=GraDS - Grid Analysis and Display System
+GenericName=GrADS
+X-GNOME-FullName=Grads - Grid Analysis and Display System
+Comment=Weather data analysis and visualization
+Type=Application
+Categories=Science;DataVisualization;Geoscience;Qt;
+#MimeType=image/svg+xml;image/svg+xml-compressed;
+Exec=grads
+TryExec=grads
+Terminal=true
+StartupNotify=true
+Icon=grads

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=xsser
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "xsser -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners;
+X-Kali-Package=xsser

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Categories=Office;
+Comment=EdrawMax
+Encoding=UTF-8
+Exec=sh /opt/EdrawMax-12/edrawmax.sh %F
+Icon=edrawmax
+MimeType=application/x-eddx
+Name=EdrawMax
+Name[en_US]=EdrawMax
+StartupNotify=false
+Terminal=false
+Type=Application
+X-Deepin-Vendor=EdrawSoft

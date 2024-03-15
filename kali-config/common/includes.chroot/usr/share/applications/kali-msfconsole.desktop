@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=metasploit framework
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo msfdb init && msfconsole"
+Icon=kali-metasploit-framework
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;
+X-Kali-Package=metasploit-framework

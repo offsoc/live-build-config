@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=
+Comment=A Tauri App
+Exec=alist-desktop
+Icon=alist-desktop
+Name=alist-desktop
+Terminal=false
+Type=Application

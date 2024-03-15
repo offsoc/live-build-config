@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Comment=NoMachine web session
+Exec="/usr/NX/bin/nxplayer" --session
+Icon=NoMachine-web
+Name=NoMachine
+Type=Application
+MimeType=application/nx-web-session;
+NoDisplay=true

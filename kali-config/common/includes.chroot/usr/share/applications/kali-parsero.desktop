@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=parsero
+Comment=Robots.txt audit tool
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "parsero -h"
+Icon=kali-parsero
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners;
+X-Kali-Package=parsero

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=shellnoob
+Encoding=UTF-8
+Exec=shellnoob -i
+Icon=kali-shellnoob
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;
+X-Kali-Package=shellnoob

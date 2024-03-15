@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=spooftooph
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "spooftooph -h"
+Icon=kali-spooftooph
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-02-bluetooth-tools;
+X-Kali-Package=spooftooph

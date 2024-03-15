@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=fcrackzip
+Comment=A Free/Fast Zip Password Cracker
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "fcrackzip --help"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=fcrackzip

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=nessus stop (deleted)
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo systemctl stop nessusd && systemctl --no-pager status nessusd"
+Icon=kali-nessus
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-05-nessus;14-15-nessus-service;
+X-Kali-Package=nessus

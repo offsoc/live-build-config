@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=slowhttptest
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "slowhttptest -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-07-stress-testing;
+X-Kali-Package=slowhttptest

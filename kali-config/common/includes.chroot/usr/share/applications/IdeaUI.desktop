@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=IdeaUI
+Comment=IdeaUI
+Type=Application
+Exec=sh -c "/opt/idea/bin/idea.sh"
+Icon=/opt/idea/bin/idea.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8

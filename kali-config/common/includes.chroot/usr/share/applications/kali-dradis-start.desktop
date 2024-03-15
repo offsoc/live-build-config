@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dradis start
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo dradis"
+Icon=kali-dradis
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-10-dradis-service;14-services;12-reporting;
+X-Kali-Package=dradis

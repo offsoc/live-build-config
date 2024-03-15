@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=wapiti
+Comment=A web application vulnerability scanner in Python
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "wapiti -h"
+Icon=kali-wapiti
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners;001-identify;
+X-Kali-Package=wapiti

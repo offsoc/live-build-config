@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=jSQL Injection
+Encoding=UTF-8
+Exec=jsql
+Icon=kali-jsql
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=04-database-assessment;03-05-web-vulnerability-scanners;
+X-Kali-Package=jsql-injection
+StartupWMClass=com-jsql-MainApplication

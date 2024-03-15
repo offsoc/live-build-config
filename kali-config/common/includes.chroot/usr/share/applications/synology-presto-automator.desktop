@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Synology Presto Automator
+Comment=Synology Presto Automator
+Exec=pkexec /opt/Synology/Presto/app/synology-presto-automator
+Icon=/opt/Synology/Presto/app/resource/images/icon_automator.png
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;
+StartupWMClass=automator

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=faraday stop
+Comment=Kali script to start and stop faraday-server and faraday-client
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo systemctl stop faraday && systemctl --no-pager status faraday"
+Icon=kali-python-faraday
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-14-faraday-service;
+X-Kali-Package=faraday

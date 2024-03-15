@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=armitage
+Encoding=UTF-8
+Exec=sh -c "pkexec msfdb init && armitage"
+Icon=kali-armitage
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=08-exploitation-tools;
+X-Kali-Package=armitage
+StartupWMClass=armitage-ArmitageMain

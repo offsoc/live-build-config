@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=webshells
+Encoding=UTF-8
+Exec=webshells
+Icon=kali-webshells
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-webapp-analysis;
+X-Kali-Package=webshells

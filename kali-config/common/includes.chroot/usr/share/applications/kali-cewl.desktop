@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=cewl
+Comment=Custom word list generator
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "cewl --help"
+Icon=kali-cewl
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-05-profile;05-password-attacks;
+X-Kali-Package=cewl

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/opt/charles/bin/charles
+Icon=/opt/charles/icon/128x128/charles-proxy.png
+Name=Charles
+Terminal=false
+Type=Application
+

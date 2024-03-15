@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=pixiewps
+Comment=Offline Wi-Fi Protected Setup bruteforce tool
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "pixiewps -h"
+Icon=kali-pixiewps
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-Kali-Package=pixiewps

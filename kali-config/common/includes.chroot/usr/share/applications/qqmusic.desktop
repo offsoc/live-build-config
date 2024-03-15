@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=qqmusic
+Exec=/opt/qqmusic/qqmusic %U
+Terminal=false
+Type=Application
+Icon=qqmusic
+StartupWMClass=qqmusic
+Comment=Tencent QQMusic
+Categories=AudioVideo;

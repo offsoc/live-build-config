@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=4.5.0
+Type=Application
+Name=Maltego URL Protocol Handler
+GenericName=Maltego URL Protocol Handler
+Comment=Handle URL Scheme maltego://abcdefg
+NoDisplay=true
+Exec=/usr/bin/maltego_url_protocol_handler %u
+Icon=maltego
+Terminal=false
+MimeType=x-scheme-handler/maltego;

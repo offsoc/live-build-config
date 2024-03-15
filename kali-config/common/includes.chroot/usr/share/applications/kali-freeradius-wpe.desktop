@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=freeradius-wpe
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "freeradius -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-wireless-tools;
+X-Kali-Package=freeradius-wpe

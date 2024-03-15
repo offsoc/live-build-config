@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=snmp-check
+Comment=Check hosts SNMP access
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "snmp-check -h"
+Icon=kali-snmp-check
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-12-snmp-analysis;
+X-Kali-Package=snmpcheck

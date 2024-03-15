@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=t50
+Comment=Network packet injector
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "t50 --help"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-07-stress-testing;
+X-Kali-Package=t50

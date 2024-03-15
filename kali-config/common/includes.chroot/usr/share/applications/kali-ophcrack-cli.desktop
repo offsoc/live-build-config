@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ophcrack-cli
+Comment=A Microsoft Windows password cracker using rainbow tables.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "ophcrack-cli"
+Icon=kali-ophcrack
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=ophcrack-cli

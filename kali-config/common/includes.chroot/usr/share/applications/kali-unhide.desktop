@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=unhide
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo unhide"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;004-respond;
+X-Kali-Package=unhide

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=safecopy
+Comment=Rescue data from a source that causes IO errors
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "safecopy -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-05-forensic-carving-tools;
+X-Kali-Package=safecopy

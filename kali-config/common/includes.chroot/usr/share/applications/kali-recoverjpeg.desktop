@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=recoverjpeg
+Comment=Recover jpeg pictures from a filesystem image
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "recoverjpeg -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-05-forensic-carving-tools;005-recover;
+X-Kali-Package=recoverjpeg

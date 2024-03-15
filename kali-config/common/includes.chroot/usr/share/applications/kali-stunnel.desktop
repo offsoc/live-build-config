@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=stunnel4
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "stunnel4 -help"
+Icon=kali-stunnel4
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-02-tunneling;
+X-Kali-Package=stunnel4

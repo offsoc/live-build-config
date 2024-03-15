@@ -1,0 +1,11 @@
+[Desktop Entry]
+0=钉
+1=钉
+Name=钉钉
+Exec="/opt/钉钉/dingtalk" %U
+Terminal=false
+Type=Application
+Icon=dingtalk
+StartupWMClass=钉钉
+Comment=钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS
+Categories=InstantMessaging;Network;

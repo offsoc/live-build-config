@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Comment=NoMachine Service
+Exec=/usr/NX/bin/nxplayer --dialog status
+Icon=NoMachine-icon
+Name=NoMachine Service
+StartupWMClass=nxplayer.bin
+Type=Application
+Categories=Network;
+OnlyShowIn=Unity;

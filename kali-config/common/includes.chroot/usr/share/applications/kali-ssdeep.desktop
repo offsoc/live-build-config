@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=ssdeep
+Comment=Computes context triggered piecewise hashes (fuzzy hashes)
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "ssdeep -h"
+Icon=kali-ssdeep
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;
+X-Kali-Package=ssdeep

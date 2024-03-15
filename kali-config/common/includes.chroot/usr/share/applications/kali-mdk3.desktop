@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=mdk3
+Comment=Wireless attack tool for IEEE 802.11 networks
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo mdk3 --help"
+Icon=kali-mdk3
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-Kali-Package=mdk3

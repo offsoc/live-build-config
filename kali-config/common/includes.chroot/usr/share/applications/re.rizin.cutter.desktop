@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=cutter
+Comment=Reverse engineering platform
+Encoding=UTF-8
+Exec=cutter
+Icon=cutter
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=07-reverseengineer;
+X-Kali-Package=rizin-cutter

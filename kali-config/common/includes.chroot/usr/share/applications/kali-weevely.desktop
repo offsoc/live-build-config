@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=weevely
+Comment=Weaponized web shell
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "weevely terminal -h"
+Icon=kali-weevely
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-03-web-backdoors;10-maintaining-access;
+X-Kali-Package=weevely

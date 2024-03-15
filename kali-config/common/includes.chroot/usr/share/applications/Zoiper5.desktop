@@ -1,0 +1,15 @@
+[Desktop Entry]
+
+Version=5.5.14
+Name=Zoiper5
+Comment=VoIP Softphone
+Exec=zoiper5 --dial=%u
+Icon=/usr/share/pixmaps/Zoiper5.png
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;
+Keywords=voip;iax;sip;internet;Zoiper5;zoiper5;
+MimeType=x-scheme-handler/zoiper;x-scheme-handler/callto;x-scheme-handler/tel;x-scheme-handler/sip;
+
+X-Desktop-File-Install-Version=0.23

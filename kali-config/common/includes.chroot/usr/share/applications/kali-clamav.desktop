@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=clamav
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "clamscan -h"
+Icon=kali-clamav
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=002-protect;
+X-Kali-Package=clamav

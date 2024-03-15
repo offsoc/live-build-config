@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=webscarab
+Encoding=UTF-8
+Exec=webscarab
+Icon=kali-webscarab
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=03-webapp-analysis;
+X-Kali-Package=webscarab
+StartupWMClass=com-simontuffs-onejar-Boot

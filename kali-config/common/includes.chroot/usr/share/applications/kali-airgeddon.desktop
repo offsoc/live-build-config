@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=airgeddon (root)
+Encoding=UTF-8
+Exec=sudo airgeddon
+Icon=kali-airgeddon
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-wireless-attacks;
+X-Kali-Package=airgeddon

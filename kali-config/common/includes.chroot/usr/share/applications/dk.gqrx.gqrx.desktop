@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=gqrx
+Comment=Software defined radio receiver implemented using GNU Radio and the Qt GUI toolkit
+Encoding=UTF-8
+Exec=gqrx
+Icon=kali-gqrx
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=06-05-radio-tools;06-wireless-attacks;AudioVideo;Audio;Qt;HamRadio;
+Keywords=SDR;Radio;HAM;
+X-Kali-Package=gqrx-sdr
+StartupWMClass=gqrx

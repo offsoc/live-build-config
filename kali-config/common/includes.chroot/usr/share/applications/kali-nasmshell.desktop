@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=NASM shell
+Encoding=UTF-8
+Exec=msf-nasm_shell
+Icon=kali-metasploit-framework
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=07-reverseengineer;
+X-Kali-Package=metasploit-framework

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=XScavenger
+Comment=X11 clone of Lode Runner
+Exec=/usr/games/xscavenger
+Icon=xscavenger-icon
+Terminal=false
+Type=Application
+Categories=Game;ArcadeGame;
+StartupNotify=false

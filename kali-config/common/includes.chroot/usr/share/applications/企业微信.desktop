@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=企业微信
+Exec=/opt/ukylin-wine/apps/wine-wxwork/run.sh
+Type=Application
+StartupNotify=true
+Path=
+Icon=wxwork
+StartupWMClass=WXWork.exe

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=sctpscan
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sctpscan"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-03-voip-tools;
+X-Kali-Package=sctpscan

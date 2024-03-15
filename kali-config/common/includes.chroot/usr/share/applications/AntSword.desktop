@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/opt/AntSword/AntSword 
+Icon=/opt/AntSword/logo.png 
+Name=AntSword
+Terminal=false
+Type=Application
+

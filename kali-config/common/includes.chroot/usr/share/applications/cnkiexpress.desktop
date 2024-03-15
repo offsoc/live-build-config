@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=全球学术快报
+Exec="/opt/cnkiexpress/cnkiexpress.AppImage" %U
+Terminal=false
+Type=Application
+Icon=cnkiexpress
+StartupWMClass=全球学术快报
+Comment=CNKI Express
+MimeType=application/caj;application/nh;application/kdh;application/teb;
+Categories=Education;

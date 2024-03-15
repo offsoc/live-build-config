@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=mfterm
+Comment=The Mifare Terminal
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "mfterm -h"
+Icon=kali-mfterm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-03-rfid-nfc-tools;06-wireless-attacks;
+X-Kali-Package=mfterm

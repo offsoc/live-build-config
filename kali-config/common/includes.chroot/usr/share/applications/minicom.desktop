@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=minicom
+Comment=Friendly menu driven serial communication program
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "minicom -h"
+Icon=kali-minicom
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=minicom

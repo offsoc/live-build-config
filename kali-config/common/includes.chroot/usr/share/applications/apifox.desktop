@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Apifox
+Exec=/opt/Apifox/apifox %U
+Terminal=false
+Type=Application
+Icon=apifox
+StartupWMClass=Apifox
+Comment=Apifox = Postman + Swagger + Mock + Test
+Categories=Utility;

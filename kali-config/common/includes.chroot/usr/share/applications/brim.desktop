@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Brim
+Exec=/opt/Brim/brim %U
+Terminal=false
+Type=Application
+Icon=brim
+StartupWMClass=Brim
+Comment=Brim Desktop App
+MimeType=x-scheme-handler/brim;
+Categories=Utility;

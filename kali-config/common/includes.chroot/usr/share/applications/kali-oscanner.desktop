@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=oscanner
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "oscanner"
+Icon=kali-oscanner
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-Kali-Package=oscanner

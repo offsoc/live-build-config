@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=crackmapexec
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "crackmapexec -h"
+Icon=kali-crackmapexec
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;05-04-pass-hash;
+X-Kali-Package=crackmapexec

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=010 Editor
+Exec=/opt/010editor/010editor
+Icon=/opt/010editor/010_icon_128x128.png

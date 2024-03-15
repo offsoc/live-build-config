@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=witnessme
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "witnessme -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=001-identify;
+X-Kali-Package=witnessme

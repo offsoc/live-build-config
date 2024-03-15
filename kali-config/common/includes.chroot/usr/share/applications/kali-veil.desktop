@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=veil
+Encoding=UTF-8
+Exec=veil -h
+Icon=kali-veil
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-maintaining-access;
+X-Kali-Package=veil

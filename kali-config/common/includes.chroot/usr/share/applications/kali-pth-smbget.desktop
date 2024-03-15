@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=pth-smbget
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "pth-smbget --help"
+Icon=kali-pth
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-04-pass-hash;
+X-Kali-Package=passing-the-hash

@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Encoding=UTF-8
+Categories=Office;
+Name=MindMaster
+Comment=MindMaster
+Exec=sh /opt/MindMaster-10/mindmaster.sh %F
+Icon=mindmaster
+MimeType=application/x-emmx
+Terminal=false
+StartupNotify=false
+Type=Application
+Name[en_US]=MindMaster
+Name[zh_CN]=亿图脑图MindMaster

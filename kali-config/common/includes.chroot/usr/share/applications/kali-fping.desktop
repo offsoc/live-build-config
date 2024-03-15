@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=fping
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "fping -h"
+Icon=kali-fping
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-02-identify-live-hosts;
+X-Kali-Package=fping

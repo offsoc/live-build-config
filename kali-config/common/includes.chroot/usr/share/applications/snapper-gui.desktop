@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Snapper GUI (root)
+Comment=Frontend for snapper snapshot manager
+Exec=pkexec snapper-gui
+Icon=drive-harddisk
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Utility;
+X-Kali-Package=snapper-gui

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=davtest
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "davtest"
+Icon=kali-davtest
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-05-web-vulnerability-scanners;
+X-Kali-Package=davtest

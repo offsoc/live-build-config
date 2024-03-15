@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dnswalk
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "dnswalk --help"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-01-dns-analysis;
+X-Kali-Package=dnswalk

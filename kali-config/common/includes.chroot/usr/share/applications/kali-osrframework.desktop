@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=osrframework
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "osrframework-cli -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=001-identify;
+X-Kali-Package=osrframework

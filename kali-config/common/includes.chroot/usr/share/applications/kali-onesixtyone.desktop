@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=onesixtyone
+Comment=Fast and simple SNMP scanner
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "onesixtyone"
+Icon=kali-onesixtyone
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-12-snmp-analysis;05-01-online-attacks;
+X-Kali-Package=onesixtyone

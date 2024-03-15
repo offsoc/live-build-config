@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Cobaltsrike
+Comment=Cobaltstrike
+Type=Application
+Exec=sh -c "java -XX:ParallelGCThreads=4 -XX:+AggressiveHeap -XX:+UseParallelGC -javaagent:/opt/cobaltstrike/uHook.jar -jar /opt/cobaltstrike/cobaltstrike-client.jar $*"
+Icon=/opt/cobaltstrike/icon.jpg
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+Categories=08-exploitation-tools;
+

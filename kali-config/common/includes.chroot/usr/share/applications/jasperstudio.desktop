@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Path=/opt/tibco/TIB_js-studiocomm_6.19.1
+Icon=/opt/tibco/TIB_js-studiocomm_6.19.1/icon.xpm
+Name=Jaspersoft Studio Community
+Exec="/opt/tibco/TIB_js-studiocomm_6.19.1/Jaspersoft Studio"
+Categories=Office

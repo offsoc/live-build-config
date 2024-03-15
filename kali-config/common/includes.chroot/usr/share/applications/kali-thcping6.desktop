@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=thcping6
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "atk6-thcping6"
+Icon=kali-thcping6
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-02-identify-live-hosts;
+X-Kali-Package=thc-ipv6

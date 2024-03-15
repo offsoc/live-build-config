@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=4.5.0
+Type=Application
+Name=Maltego Java Config
+GenericName=Maltego Java Config
+Comment=Configure Java for Maltego
+Exec=/usr/bin/maltego_java_config
+Icon=maltego
+Terminal=false

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=starkiller
+Comment=Frontend for Powershell Empire
+Encoding=UTF-8
+Exec=starkiller
+Icon=kali-starkiller
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-maintaining-access;
+X-Kali-Package=starkiller
+StartupWMClass=starkiller

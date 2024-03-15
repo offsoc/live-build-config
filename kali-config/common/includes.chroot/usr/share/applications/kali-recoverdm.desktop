@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=recoverdm
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "recoverdm -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-05-forensic-carving-tools;005-recover;
+X-Kali-Package=recoverdm

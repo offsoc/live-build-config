@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mac-robber
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "mac-robber"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=004-respond;
+X-Kali-Package=mac-robber

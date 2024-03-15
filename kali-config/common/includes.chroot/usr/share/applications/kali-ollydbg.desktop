@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=ollydbg
+Encoding=UTF-8
+# Execute in terminal to show message from kali-winexec in case i386 architecture is missing
+Exec=/usr/share/kali-menu/exec-in-shell ollydbg
+Icon=kali-ollydbg
+StartupNotify=false
+# Run kali-winexec in terminal
+Terminal=true
+Type=Application
+Categories=07-reverseengineer;004-respond;
+X-Kali-Package=ollydbg

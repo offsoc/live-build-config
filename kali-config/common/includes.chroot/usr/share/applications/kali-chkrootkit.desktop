@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=chkrootkit
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "chkrootkit -h"
+Icon=kali-chkrootkit
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;
+X-Kali-Package=chkrootkit

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Deskreen
+Exec=/opt/Deskreen/deskreen %U
+Terminal=false
+Type=Application
+Icon=deskreen
+StartupWMClass=Deskreen
+Comment=Deskreen turns any device into a secondary screen for your computer
+Categories=Development;

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=sqldict
+Encoding=UTF-8
+# Execute in terminal to show message from kali-winexec in case i386 architecture is missing
+Exec=/usr/share/kali-menu/exec-in-shell sqldict
+Icon=kali-sqldict
+StartupNotify=false
+# Run kali-winexec in terminal
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-Kali-Package=sqldict

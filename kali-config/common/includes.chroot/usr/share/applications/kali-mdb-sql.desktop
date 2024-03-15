@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mdb-sql
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "mdb-sql -h"
+Icon=kali-mdb-sql
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=04-database-assessment;
+X-Kali-Package=mdbtools

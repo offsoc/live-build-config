@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=gvm check setup
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo gvm-check-setup"
+Icon=kali-gvm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-13-gvm-service;02-08-gvm;
+X-Kali-Package=gvm

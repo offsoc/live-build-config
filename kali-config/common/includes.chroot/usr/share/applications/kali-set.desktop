@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=social engineering toolkit (root)
+Encoding=UTF-8
+Exec=sudo setoolkit
+Icon=kali-set
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;13-social-engineering-tools;
+X-Kali-Package=set

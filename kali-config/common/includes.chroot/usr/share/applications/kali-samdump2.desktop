@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=samdump2
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "samdump2 -h"
+Icon=kali-samdump2
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=samdump2

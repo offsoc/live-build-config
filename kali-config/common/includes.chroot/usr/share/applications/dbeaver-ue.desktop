@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=dbeaver-ue
+GenericName=Universal Database Manager
+Comment=Universal Database Manager - Ultimate Edition.
+Path=/usr/share/dbeaver-ue/
+Exec=/usr/share/dbeaver-ue/dbeaver
+Icon=/usr/share/dbeaver-ue/dbeaver.png
+Categories=IDE;Development
+StartupWMClass=DBeaver Ultimate
+StartupNotify=true
+Keywords=Database;SQL;IDE;JDBC;ODBC;MySQL;PostgreSQL;Oracle;DB2;MariaDB
+MimeType=application/sql

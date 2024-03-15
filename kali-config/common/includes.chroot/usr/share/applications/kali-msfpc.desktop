@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=msf payload creator
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "msfpc"
+Icon=kali-msfpc
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;13-social-engineering-tools;
+X-Kali-Package=msfpc

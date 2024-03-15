@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=masscan
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "masscan --help"
+Icon=kali-masscan
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-02-identify-live-hosts;01-04-network-scanners;
+X-Kali-Package=masscan

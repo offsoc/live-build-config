@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=iodine
+Comment=Tunnel IPv4 over DNS
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "iodine-client-start -h"
+Icon=kali-iodine
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-02-tunneling;
+X-Kali-Package=iodine

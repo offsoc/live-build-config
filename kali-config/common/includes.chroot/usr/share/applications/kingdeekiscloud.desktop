@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name[zh_CN]=金蝶KIS云
+Name[en_US]=kiscloud
+Keywords=kingdee;kis;KIS;金蝶;jindie;kiscloud;cloud;云;
+Comment[zh_CN]=金蝶KIS云Linux版
+Comment=kingdee kiscloud for linux
+Exec=/opt/kingdeekiscloud/kingdeekiscloud
+Icon=/usr/share/icons/kingdeekiscloud_launch.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=false
+Categories=Office

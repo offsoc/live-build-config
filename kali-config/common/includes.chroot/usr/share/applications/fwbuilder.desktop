@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Firewall Builder
+Comment=Firewall administration tool GUI
+Icon=kali-fwbuilder
+Encoding=UTF-8
+Exec=fwbuilder %F
+Icon=kali-fwbuilder
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Network;002-protect;
+MimeType=text/x-xml-fwbuilder;
+X-Kali-Package=fwbuilder
+StartupWMClass=fwbuilder

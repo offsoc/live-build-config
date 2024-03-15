@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Name=dbeaver-te
+GenericName=Universal Database Manager
+Comment=Universal Database Manager - Team Edition.
+Path=/usr/share/dbeaver-te/
+Exec=/usr/share/dbeaver-te/dbeaver
+Icon=/usr/share/dbeaver-te/dbeaver.png
+Categories=IDE;Development
+StartupWMClass=DBeaver Team Edition
+StartupNotify=true
+Keywords=Database;SQL;IDE;JDBC;ODBC;MySQL;PostgreSQL;Oracle;DB2;MariaDB
+MimeType=application/sql

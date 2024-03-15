@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=peass
+Encoding=UTF-8
+Exec=peass
+Icon=kali-peass
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-vulnerability-analysis;
+X-Kali-Package=peass

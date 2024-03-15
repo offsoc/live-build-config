@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=proxychains4
+Comment=Redirect connections through proxy servers
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "proxychains4"
+Icon=kali-proxychains
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=10-02-tunneling;10-maintaining-access;
+X-Kali-Package=proxychains4

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/opt/binaryninja/binaryninja
+Icon=/opt/binaryninja/binaryninja.png
+Name=binaryninja
+Terminal=false
+Type=Application
+

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hash-identifier
+Encoding=UTF-8
+Exec=hash-identifier
+Icon=kali-hash-identifier
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=hash-identifier

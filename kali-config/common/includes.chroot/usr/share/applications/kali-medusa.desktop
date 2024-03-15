@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=medusa
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "medusa -h"
+Icon=kali-medusa
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-password-attacks;05-01-online-attacks;
+X-Kali-Package=medusa

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Comment=NoFWL
+Exec=no-fwl
+Icon=no-fwl
+Name=NoFWL
+Terminal=false
+Type=Application

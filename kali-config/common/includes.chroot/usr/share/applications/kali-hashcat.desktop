@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hashcat
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "hashcat --help"
+Icon=kali-hashcat
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;05-password-attacks;
+X-Kali-Package=hashcat

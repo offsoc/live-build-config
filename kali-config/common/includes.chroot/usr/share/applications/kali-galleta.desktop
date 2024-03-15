@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=galleta
+Comment=Tool to extract information from MSIE cookie files
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "galleta"
+Icon=kali-galleta
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;004-respond;
+X-Kali-Package=galleta

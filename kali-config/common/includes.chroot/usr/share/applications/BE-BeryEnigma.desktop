@@ -1,0 +1,8 @@
+[Desktop Entry]
+Categories=Development;
+Exec=/opt/BE-BerylEnigma/bin/BE-BerylEnigma 
+Icon=/opt/BE-BerylEnigma/lib/BE-BerylEnigma.png
+Name=BE-BerylEnigma
+Terminal=false
+Type=Application
+

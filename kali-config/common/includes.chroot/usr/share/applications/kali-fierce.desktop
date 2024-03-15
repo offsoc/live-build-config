@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=fierce
+Comment=DNS scanner that helps locate non-contiguous IP space and hostnames against specified domains.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "fierce -h"
+Icon=kali-fierce
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-01-dns-analysis;
+X-Kali-Package=fierce

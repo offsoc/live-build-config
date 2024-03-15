@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=searchsploit
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "searchsploit"
+Icon=kali-searchsploit
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=08-exploitation-tools;001-identify;
+X-Kali-Package=exploitdb

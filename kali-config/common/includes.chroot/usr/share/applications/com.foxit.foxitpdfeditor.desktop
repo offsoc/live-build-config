@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=Foxit PDF Editor
+Name[zh_CN]=福昕高级PDF编辑器
+Comment=Edit pdf documents
+Comment[zh_CN]=PDF 文档编辑
+GenericName=Foxit PDF Editor
+GenericName[zh_CN]=福昕高级PDF编辑器
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Application;Office;Editor;X-Red-Hat-Base;
+Keywords=pdf;ppdf;
+MimeType=application/pdf;application/ppdf;application/xfdf;application/fdf
+X-Deepin-Vendor=user-custom
+Exec=/opt/apps/com.foxit.foxitpdfeditor/files/FoxitPDFEditor.sh %F
+Icon=phantom

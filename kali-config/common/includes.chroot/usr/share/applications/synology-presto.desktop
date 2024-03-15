@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Synology Presto
+Comment=Synology Presto
+Exec=env LD_LIBRARY_PATH="/opt/Synology/Presto/app/lib" QT_PLUGIN_PATH="/opt/Synology/Presto/app/lib/plugins" /opt/Synology/Presto/app/bin/presto
+Icon=/opt/Synology/Presto/app/resource/images/icon_presto.png
+Terminal=false
+Type=Application
+Categories=Network;FileTransfer;
+StartupWMClass=presto

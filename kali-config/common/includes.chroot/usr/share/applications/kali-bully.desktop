@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=bully
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "bully"
+Icon=kali-bully
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-01-wireless-tools;
+X-Kali-Package=bully

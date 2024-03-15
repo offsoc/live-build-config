@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=wfuzz
+Comment=A web application bruteforcer
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "wfuzz"
+Icon=kali-wfuzz
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-04-web-crawlers;
+X-Kali-Package=wfuzz

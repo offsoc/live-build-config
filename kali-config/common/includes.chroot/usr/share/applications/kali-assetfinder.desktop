@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=assetfinder
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "assetfinder -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=001-identify;
+X-Kali-Package=assetfinder

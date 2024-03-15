@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=genymotion
+Comment=genymotion
+Type=Application
+Exec=sh -c "/opt/genymobile/genymotion/genymotion"
+Icon=/opt/genymobile/genymotion/icons/genymotion-logo.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+

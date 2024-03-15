@@ -1,0 +1,41 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+X-Created-By=cxoffice-0
+Categories=X-cxmenu-cxoffice-0-29ra4ke;
+StartupNotify=true
+StartupWMClass=crossover
+Icon=cxmenu-cxoffice-0-crossover
+Exec=/opt/cxoffice/bin/crossover %u
+Name=CrossOver
+Comment=Run Windows software with CrossOver
+Name[hi]=क्रॉसओवर
+Comment[id]=Jalankan Aplikasi Windows menggunakan CrossOver
+Comment[ht]=Kouri lojisyèl Windows ak CrossOver
+Comment[de]=Windows Software mit CrossOver ausführen
+Comment[pl]=Uruchamiaj oprogramowanie Windows za pomocą CrossOver
+Comment[hu]=Windows szoftver futtatása a CrossOver-alkalmazással
+Comment[cs]=Spustit Windows software pomocí CrossOveru
+Comment[ru]=Запустить программу для Windows с помощью CrossOver
+Comment[zh_CN]=使用 CrossOver 运行 Windows 软件
+Comment[fi]=Aja Windows-ohjelmaa CrossOverilla
+Comment[ja]=WindowsのソフトウェアをCrossOverで開く
+Comment[pt]=Execute software para Windows com o CrossOver
+Comment[ro]=Rulați software de Windows cu CrossOver
+Comment[es]=Ejecutar software de Windows con Crossover
+Comment[hi]=क्रॉसओवर के साथ विंडोज सॉफ्टवेयर चलाएं
+Comment[sv]=Kör Windows-program med CrossOver
+Comment[it]=Esegui Sofware di Windows con CrossOver
+Comment[nl]=Windows programma's met CrossOver draaien
+Comment[fr]=Exécuter les applications Windows avec CrossOver
+Comment[ms]=Jalankan perisian Windows dengan CrossOver
+Comment[da]=Kør Windows software med CrossOver
+Comment[tr]=Windows yazılımını CrossOver ile çalıştır
+Comment[pt_BR]=Execute software para Windows com o CrossOver
+Comment[uk]=Запустити програму для Windows за допомогою CrossOver
+Comment[bg]=Стартирай Windows софтуер с CrossOver
+Comment[ca]=Executar el programari de Windows amb CrossOver
+Comment[zh_TW]=使用 CrossOver 運行 Windows 軟體
+Comment[sk]=Spustiť Windows softvér cez CrossOver

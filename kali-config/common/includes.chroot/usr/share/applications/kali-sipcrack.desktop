@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=sipcrack
+Comment=A suite of tools to sniff and crack the digest authentications within the SIP protocol.
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sipcrack -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=05-02-offline-attacks;
+X-Kali-Package=sipcrack

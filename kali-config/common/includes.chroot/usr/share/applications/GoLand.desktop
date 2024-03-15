@@ -1,0 +1,13 @@
+cat CLion.desktop     
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=GoLand
+Comment=GoLand
+Type=Application
+Exec=sh -c "/opt/GoLand/bin/goland.sh"
+Icon=/opt/GoLand/bin/goland.png 
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+Categories=14-development-tools;
+

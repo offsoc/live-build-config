@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=bluelog
+Comment=Bluetooth Scanner and Logger
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "bluelog -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=06-02-bluetooth-tools;
+X-Kali-Package=bluelog

@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Bruteratel
+Comment=Bruteratel
+Type=Application
+Exec=sh -c "/opt/bruteratel/commander"
+Icon=/opt/bruteratel/brute_ratel_c4.jpg
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+Categories=08-exploitation-tools;
+

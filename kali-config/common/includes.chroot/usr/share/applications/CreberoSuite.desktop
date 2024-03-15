@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=CreberoSuite
+Comment=CreberoSuite
+Type=Application
+Exec=sh -c "/opt/cerberosuite/cerpro.sh"
+Icon=/opt/cerberosuite/app_128x128.png
+StartupNotify=false
+Terminal=false 
+Encoding=UTF-8
+

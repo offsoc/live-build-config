@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=dnschef
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "dnschef -h"
+Icon=kali-dnschef
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-02-network-spoofing;09-01-network-sniffers;
+X-Kali-Package=dnschef

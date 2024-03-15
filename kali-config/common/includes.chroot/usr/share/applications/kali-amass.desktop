@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=amass
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "amass -h"
+Icon=kali-amass
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;001-identify;
+X-Kali-Package=amass

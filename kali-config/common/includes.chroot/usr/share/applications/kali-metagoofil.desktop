@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=metagoofil
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "metagoofil"
+Icon=kali-metagoofil
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-07-osint-analysis;12-reporting;
+X-Kali-Package=metagoofil

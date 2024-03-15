@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=gvm stop
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo gvm-stop"
+Icon=kali-gvm
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=02-vulnerability-analysis;001-identify;14-13-gvm-service;02-08-gvm;14-services;
+X-Kali-Package=gvm

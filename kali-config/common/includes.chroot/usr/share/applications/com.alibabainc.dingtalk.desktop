@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Chat;
+Comment=
+Exec=/opt/apps/com.alibabainc.dingtalk/files/Elevator.sh %u
+GenericName=dingtalk
+Icon=/opt/apps/com.alibabainc.dingtalk/files/logo.ico
+Keywords=dingtalk;
+MimeType=x-scheme-handler/dingtalk;
+Name=钉钉
+Type=Application
+X-Deepin-Vendor=user-custom

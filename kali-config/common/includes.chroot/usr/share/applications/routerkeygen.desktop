@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=RouterKegyen
+GenericName=Key Generator
+Comment=Generate the default key of several routers.
+Exec=routerkeygen
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/routerkeygen.png
+Categories=Network;
+StartupNotify=false

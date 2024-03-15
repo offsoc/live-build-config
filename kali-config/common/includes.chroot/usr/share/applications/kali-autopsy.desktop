@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=autopsy (root)
+Comment=Autopsy Forensic Browser
+Encoding=UTF-8
+Exec=sudo autopsy
+Icon=kali-autopsy
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-forensics;11-08-forensic-suites;
+X-Kali-Package=autopsy

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=hb-honeypot
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo hb-honeypot"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=001-identify;
+X-Kali-Package=hb-honeypot

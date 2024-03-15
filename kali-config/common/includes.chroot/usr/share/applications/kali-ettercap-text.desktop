@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=ettercap-text
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "ettercap -h"
+Icon=kali-ettercap
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=ettercap-text-only

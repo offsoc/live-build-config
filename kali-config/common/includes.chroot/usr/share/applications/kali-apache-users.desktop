@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=apache-users
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "apache-users"
+Icon=kali-apache-users
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-04-web-crawlers;
+X-Kali-Package=apache-users

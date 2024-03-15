@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=macchanger
+Comment=MAC Changer
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "macchanger -h"
+Icon=kali-macchanger
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=macchanger

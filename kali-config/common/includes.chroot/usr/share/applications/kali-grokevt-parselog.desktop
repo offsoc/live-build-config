@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=grokevt-parselog
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "grokevt-parselog -h"
+Icon=kali-menu
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=11-08-forensic-suites;003-detect;
+X-Kali-Package=grokevt

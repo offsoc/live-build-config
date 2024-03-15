@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=beef stop
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "sudo beef-xss-stop"
+Icon=kali-beef-xss
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=14-08-beef-service;
+X-Kali-Package=beef-xss

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=mitmproxy
+Encoding=UTF-8
+Exec=/usr/share/kali-menu/exec-in-shell "mitmproxy -h"
+Icon=kali-mitmproxy
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=09-sniffing-spoofing;
+X-Kali-Package=mitmproxy
