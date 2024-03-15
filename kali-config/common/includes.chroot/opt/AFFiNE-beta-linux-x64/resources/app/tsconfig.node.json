@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "composite": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "resolveJsonModule": true,
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "noEmit": false,
+    "outDir": "./lib/scripts",
+    "allowJs": true
+  },
+  "include": ["./scripts", "esbuild.main.config.ts", "esbuild.plugin.config.ts"]
+}

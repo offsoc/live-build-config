@@ -1,0 +1,15 @@
+{
+  "name": "@affine/bookmark-plugin",
+  "version": "0.8.2-beta.0",
+  "description": "Bookmark Plugin",
+  "affinePlugin": {
+    "release": true,
+    "entry": {
+      "core": "index.js"
+    },
+    "assets": [],
+    "serverCommand": [
+      "com.blocksuite.bookmark-block.get-bookmark-data-by-link"
+    ]
+  }
+}
